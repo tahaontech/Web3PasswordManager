@@ -6,18 +6,18 @@ smart contract & abi exist in constant folder
 
 First, run the development server:
 
-### for wallet connect:
-you should make a .env.local and put following text on that (you can use other web3 providers)
-```
-NEXT_PUBLIC_RPC_URL=https://eth-rinkeby.alchemyapi.io/v2/-- your api key --
-```
-
 ```bash
 npm install
 npm run dev
 # or
 yarn add
 yarn dev
+```
+
+### for wallet connect:
+you should make a .env.local and put following text on that (you can use other web3 providers)
+```
+NEXT_PUBLIC_RPC_URL=https://eth-rinkeby.alchemyapi.io/v2/-- your api key --
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
