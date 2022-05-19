@@ -54,7 +54,7 @@ export default function DonatePage() {
                         <InputGroup size='md'>
                             <Input
                                 isReadOnly={true}
-                                value="my wallet address"
+                                value="0x4EF7164e87e8b78DFadB4EB106EE250343FB48D7"
                                 pr='4.5rem'
                                 type='text'
                             />
@@ -79,7 +79,7 @@ export default function DonatePage() {
                         <InputGroup size='md'>
                             <Input
                                 isReadOnly={true}
-                                value="my wallet address"
+                                value="0x4EF7164e87e8b78DFadB4EB106EE250343FB48D7"
                                 pr='4.5rem'
                                 type='text'
                             />
